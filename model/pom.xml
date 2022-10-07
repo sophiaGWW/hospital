@@ -47,7 +47,13 @@
         <artifactId>fastjson</artifactId>
         <scope>provided </scope>
     </dependency>
-</dependencies>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>easyexcel</artifactId>
+            <scope>provided </scope>
+        </dependency>
+
+    </dependencies>
 
 
         </project>
